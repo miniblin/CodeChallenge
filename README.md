@@ -1,6 +1,9 @@
 # CodeChallenge
 Coding Challenge Submission For an Event Location System
  
+ 
+ The Coding Challenge was completed in C# using .Net Framework 4.5.2
+ The executable file is in the ViagogoChallenge\bin\Release folder.
 
 Assumptions
 
