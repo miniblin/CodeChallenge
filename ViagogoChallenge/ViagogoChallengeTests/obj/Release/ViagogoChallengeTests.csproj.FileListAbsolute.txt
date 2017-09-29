@@ -6,3 +6,11 @@ c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoCha
 c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallengeTests\obj\Release\ViagogoChallengeTests.csprojResolveAssemblyReference.cache
 c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallengeTests\obj\Release\ViagogoChallengeTests.dll
 c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallengeTests\obj\Release\ViagogoChallengeTests.pdb
+C:\Users\david\Documents\GitProjects\ViagogoChallenge\CodeChallenge\ViagogoChallenge\ViagogoChallengeTests\bin\Release\ViagogoChallengeTests.dll
+C:\Users\david\Documents\GitProjects\ViagogoChallenge\CodeChallenge\ViagogoChallenge\ViagogoChallengeTests\bin\Release\ViagogoChallengeTests.pdb
+C:\Users\david\Documents\GitProjects\ViagogoChallenge\CodeChallenge\ViagogoChallenge\ViagogoChallengeTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\david\Documents\GitProjects\ViagogoChallenge\CodeChallenge\ViagogoChallenge\ViagogoChallengeTests\bin\Release\ViagogoChallenge.exe
+C:\Users\david\Documents\GitProjects\ViagogoChallenge\CodeChallenge\ViagogoChallenge\ViagogoChallengeTests\bin\Release\ViagogoChallenge.pdb
+C:\Users\david\Documents\GitProjects\ViagogoChallenge\CodeChallenge\ViagogoChallenge\ViagogoChallengeTests\obj\Release\ViagogoChallengeTests.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\GitProjects\ViagogoChallenge\CodeChallenge\ViagogoChallenge\ViagogoChallengeTests\obj\Release\ViagogoChallengeTests.dll
+C:\Users\david\Documents\GitProjects\ViagogoChallenge\CodeChallenge\ViagogoChallenge\ViagogoChallengeTests\obj\Release\ViagogoChallengeTests.pdb

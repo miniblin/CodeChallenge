@@ -107,6 +107,8 @@ namespace ViagogoChallenge
         /// <param name="events">List of events to display</param>
         public void DisplayEventData(List<Event> events)
         {
+            
+            Console.WriteLine("\nClosest Events to (" + x + "," + y + ")");
             foreach (Event e in events)
             {
                 int distance = Math.Abs(x - e.LocationX) + Math.Abs(y - e.LocationY);

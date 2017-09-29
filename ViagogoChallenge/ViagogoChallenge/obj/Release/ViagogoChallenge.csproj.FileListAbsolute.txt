@@ -4,3 +4,9 @@ c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoCha
 c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallenge\obj\Release\ViagogoChallenge.exe
 c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallenge\obj\Release\ViagogoChallenge.pdb
 c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallenge\obj\Release\ViagogoChallenge.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\GitProjects\ViagogoChallenge\CodeChallenge\ViagogoChallenge\ViagogoChallenge\bin\Release\ViagogoChallenge.exe.config
+C:\Users\david\Documents\GitProjects\ViagogoChallenge\CodeChallenge\ViagogoChallenge\ViagogoChallenge\obj\Release\ViagogoChallenge.exe
+C:\Users\david\Documents\GitProjects\ViagogoChallenge\CodeChallenge\ViagogoChallenge\ViagogoChallenge\obj\Release\ViagogoChallenge.pdb
+C:\Users\david\Documents\GitProjects\ViagogoChallenge\CodeChallenge\ViagogoChallenge\ViagogoChallenge\bin\Release\ViagogoChallenge.exe
+C:\Users\david\Documents\GitProjects\ViagogoChallenge\CodeChallenge\ViagogoChallenge\ViagogoChallenge\bin\Release\ViagogoChallenge.pdb
+C:\Users\david\Documents\GitProjects\ViagogoChallenge\CodeChallenge\ViagogoChallenge\ViagogoChallenge\obj\Release\ViagogoChallenge.csprojResolveAssemblyReference.cache
