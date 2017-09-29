@@ -1,0 +1,8 @@
+c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallengeTests\bin\Debug\ViagogoChallengeTests.dll
+c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallengeTests\bin\Debug\ViagogoChallengeTests.pdb
+c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallengeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallengeTests\bin\Debug\ViagogoChallenge.exe
+c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallengeTests\bin\Debug\ViagogoChallenge.pdb
+c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallengeTests\obj\Debug\ViagogoChallengeTests.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallengeTests\obj\Debug\ViagogoChallengeTests.dll
+c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallengeTests\obj\Debug\ViagogoChallengeTests.pdb

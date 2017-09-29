@@ -1,0 +1,6 @@
+c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallenge\bin\Release\ViagogoChallenge.exe.config
+c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallenge\bin\Release\ViagogoChallenge.exe
+c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallenge\bin\Release\ViagogoChallenge.pdb
+c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallenge\obj\Release\ViagogoChallenge.exe
+c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallenge\obj\Release\ViagogoChallenge.pdb
+c:\users\david\documents\visual studio 2015\Projects\ViagogoChallenge\ViagogoChallenge\obj\Release\ViagogoChallenge.csprojResolveAssemblyReference.cache
