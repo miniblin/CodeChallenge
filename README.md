@@ -20,7 +20,7 @@ Q. How would you change your program if you were working with a much larger worl
 
 A. For a larger world size I would more than likely be using a database backend in mysql. Sorting locations there for retrieval instead of an array structure. In this structure locations could be broken down into postcodes or smaller areas.
 
-The array system works well when the events are not sparse, and most locations are filled. It allows for very fast retrieval of the nearest events simply by spiralling outward from a coordinate location. While the program as it stands works with any world size, it would become rather inneficient if the world was very sparse,. Especially in a large world as memory would be wasted storing empty cells.
+The array system works well when the events are not sparse, and most locations are filled. It allows for very fast retrieval of the nearest events simply by spiralling outward from a coordinate location. While the program as it stands works with any world size, it would become rather inneficient if the world was very sparse; especially in a large world as memory would be wasted storing empty cells.
 
 
-I have created and run unit-tests for all classes, but if any errors have managed to sneak thrugh, please let me know.
+I have created and run unit-tests for all classes, but if any errors have managed to sneak through, please let me know.
