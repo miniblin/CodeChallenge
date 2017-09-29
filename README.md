@@ -1,8 +1,9 @@
 # CodeChallenge
-Coding Challenge Submission For An Event Location System
+Coding Challenge Submission For an Event Location System
  
 
 Assumptions
+
 When entering coordinates to search from, any coordinate can be entered – not just on map of locations. Validation checks are in place, and allow the user to proceed anyway. Simply finding the nearest event to the off-map coordinates they enter.
 
 results are limited to 5 events, even if more than one event are the same distance away,
